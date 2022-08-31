@@ -13,14 +13,14 @@ Temperatures in December    |
 ![](Temps_Dec.png)          |
 
 
-<table align="center">
+<table align="right">
   <tr height=50px>
     <th>Temperatures<br>in Oahu<br>in June</th>
     <th>Temperatures<br>in Oahu<br>in December</th>
   </tr>
   <tr>
-    <td> <img src="Temps_Jun.png" width = 100px>
-    <td> <img src="Temps_Dec.png" width = 100px>
+    <td> <img src="Temps_Jun.png" width = 150px>
+    <td> <img src="Temps_Dec.png" width = 150px>
   </tr>
 </table>
 
