@@ -6,12 +6,6 @@ We are working to get a new business idea off the ground, a surk-n-shake shop in
 ## Key Findings
 There are 3 key differences in weather between June and December:
 
-Temperatures in June        |
-:--------------------------:|
-![](Temps_Jun.png)          |
-Temperatures in December    |
-![](Temps_Dec.png)          |
-
 
 <table align="right">
   <tr height=50px>
