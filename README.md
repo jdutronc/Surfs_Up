@@ -14,7 +14,7 @@ There are 3 key differences in weather between June and December:
   </tr>
   <tr>
     <td> <img src="Temps_Jun.png" width = 150px>
-    <td> <img src="Temps_Dec.png" width = 175px>
+    <td> <img src="Temps_Dec.png" width = 178px>
   </tr>
 </table>
 
