@@ -24,7 +24,7 @@ From the tables pictured right here, we can draw 4 key conclusions:
 
 ## Summary
 
-Although as expected min. temperatures are lower in Dec. than in Jun., overall temperatures in Oahu are quite comfortable and evenly distributed all year round. We can expect slightly slower sales of both ice cream and surfboards in the winter season when the temperature dips, but there shouldn't be any big, prolonged temperature variations to significantly impact our business in winter.
+Although as expected min. temperatures are lower in Dec. than in Jun., overall temperatures in Oahu are quite comfortable and evenly distributed all year round. We can expect slightly slower sales of both ice cream and surfboards in the winter season when the temperature dips occasionally, but there shouldn't be any big, prolonged temperature variations to significantly impact our business in winter.
 
 It would be interesting to investigate the following to dig deeper in our analysis:
 1. rain volume and patterns around the year - a slightly lower temperature wouldn't necessarily deter a would-be surfer or an ice-cream lover, but rain might?
