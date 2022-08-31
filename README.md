@@ -16,7 +16,7 @@ We are working to get a new business idea off the ground, a surk-n-shake shop in
   </tr>
 </table>
 
-From the tables pictured right here, we can see that there are 3 key differences in weather between June and December:
+From the tables pictured right here, we can see that there are 4 key differences in weather between June and December:
 1. as expected, average temperatures are lower in Dec. than in Jun. but, surprisingly, not by much: only 4°F.
 2. min. temperatures are lower in Dec. than in Jun (56°F and 64°F respectively), but max. temperatures are not much higher in Jun. than in Dec. (85°F and 83°F respectively)
 3. temperatures are spread out over a wider range in Dec. (stdev. = 3.75) than in Jun. (stdev. = 3.26)
