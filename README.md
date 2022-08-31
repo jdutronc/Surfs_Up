@@ -6,9 +6,18 @@ We are working to get a new business idea off the ground, a surk-n-shake shop in
 ## Key Findings
 There are 3 key differences in weather between June and December:
 
-<img align="right" src="Temps_Jun.png" width="300">
 
-<img align="right" src="Temps_Dec.png" width="300">
+<table align="right">
+  <tr height=50px>
+    <th>Temperatures<br>in Oahu<br>in June</th>
+    <th>Temperatures<br>in Oahu<br>in December</th>
+  </tr>
+  <tr>
+    <td> <img src="Temps_Jun.png" width = 150px>
+    <td> <img src="Temps_Dec.png" width = 150px>
+  </tr>
+</table>
+
 
 -
 -
